@@ -11,7 +11,7 @@ alamat = "Perumahan Puri Malangjiwan Indah,Colomadu,Karanganyar"
 print("alamat :",alamat)
 agama = "katolik"
 print("agama :",agama)
-hobi = "bersepeda,bersih-bersih"
+hobi = "bersepeda,bersih-bersih,jalan-jalan"
 print("hobi :",hobi)
 status = "belum kawin"
 print("status :",status)
